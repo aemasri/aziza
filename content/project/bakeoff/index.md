@@ -1,10 +1,10 @@
 ---
-author: Eric Anderson
+author: Azza El-Masri
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+- student journalism
+- mobile newsroom
+- trainings
+date: "2022-07-28"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
@@ -14,53 +14,16 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+  url: https://nawamedia.org/newsroom/about-the-nawa-media-newsroom/ 
+subtitle: Managing a mobile regional student newsroom
 tags:
-- hugo-site
-title: Bakeoff
+- meedan
+title: The NAWA Media Check Newsroom
 ---
 
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
 ---
+The NAWA Media Newsroom was launched in 2017 with a team of journalism students from the Lebanese University. In 2020, new students joined us from Syria, Yemen and Egypt, followed by a new cohort of students from Palestine and Sudan in 2021.
 
-### Functional Form
+In 2020, country-focused newsrooms reported on: the effect of COVID-19 on the economy in Yemen; medical shortages in Egypt; threats faced by journalists in Syria; and the mental health consequences of the Beirut blast. They also worked on podcasts, infographics, and investigations. This wouldn’t have been possible without the six-month training program we organized with openDemocracy, where students learned about sourcing, digital security, investigative journalism, podcasting, open-source investigations, and others. The recordings of these sessions are available on YouTube. 
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
-
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
-
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+In 2021, we expanded the Newsroom further, to include students from Palestine and to focus on fact-checking health misinformation, this time with additional support from Skeyes Media: Centre for Media and Cultural Freedom, leading to the release of the [Media Credibility Index](https://ar.nawamedia.org/media-credibility-index/) in Syria, Lebanon and Yemen.

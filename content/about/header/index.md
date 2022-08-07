@@ -2,11 +2,10 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+headline: Hi, there! I'm Azza, welcome. 
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+I am a doctoral student in Journalism and Media at the University of Texas at Austin. I have worked as a journalist, disinformation expert, and digital security consultant with independent media organizations, human rights organizations, and journalism students across SWANA/MENA to develop and support open-source investigations and fact-checking projects.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+My work and research sit at the intersection of media, technology and human rights. Particularly, I examine the political economy of disinformation in NAWA and the effect of content moderation policies on Arab independent media, access to information, and free speech online.
