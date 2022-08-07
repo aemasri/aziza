@@ -6,12 +6,12 @@ avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 link_list_label: "Interested in" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Critical disinformation studies
+  url: https://misinforeview.hks.harvard.edu/article/critical-disinformation-studies-history-power-and-politics/
+- name: SWANA/MENA
+  url: 
+- name: Platform accountability
+  url: 
 ---
 
 ** index doesn't contain a body, just front matter above.

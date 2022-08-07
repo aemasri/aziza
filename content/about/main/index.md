@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Currently, I'm a Graduate Research Assistant at the [Center for Media Engagement](https://mediaengagement.org/propaganda/), where I am investigating harassment, bullying and doxxing of Arab independent journalists on encrypted messaging apps (EMAs) and their implications on content moderation policies. 
+  Currently, I'm a Graduate Research Assistant at the [Center for Media Engagement](https://mediaengagement.org/propaganda/), where I am investigating harassment, bullying and doxxing of Arab independent journalists on encrypted messaging apps (EMAs) and their implications on free speech and independent journalism in SWANA/MENA. 
   
 show_outro: true
 outro: |
