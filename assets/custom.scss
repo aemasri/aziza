@@ -1,0 +1,13 @@
+/* petrona-regular - latin */
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/petrona-v28-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/petrona-v28-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/petrona-v28-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/petrona-v28-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/petrona-v28-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/petrona-v28-latin-regular.svg#Petrona') format('svg'); /* Legacy iOS */
+}
