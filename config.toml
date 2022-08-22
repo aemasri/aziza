@@ -44,11 +44,6 @@ enableEmoji = true
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "aemasri"
   
-  # use a built-in color theme
-  # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water 
-  theme = ""
-  
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
