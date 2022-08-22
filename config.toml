@@ -32,7 +32,7 @@ enableEmoji = true
   description = "Welcome to my website!"
   favicon = "/img/favicon.ico"
   logo = "/img/waving-hand.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "portfolio", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -118,9 +118,9 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = "Portfolio"
     title = "Project Portfolio"
-    url = "/project/"
+    url = "/portfolio/"
     weight = 3
   [[menu.header]]
     name = "Talks"
