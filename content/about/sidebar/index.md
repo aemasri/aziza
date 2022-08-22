@@ -9,9 +9,9 @@ link_list:
 - name: Critical disinformation studies
   url: https://misinforeview.hks.harvard.edu/article/critical-disinformation-studies-history-power-and-politics/
 - name: SWANA/MENA
-  url: 
+  url: https://swanaalliance.com/about
 - name: Platform accountability
-  url: 
+  url: https://nextbillion.network/next-billion-network-172ed9aa73d2
 ---
 
 ** index doesn't contain a body, just front matter above.
