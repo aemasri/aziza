@@ -1,16 +1,14 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+description: If you're interested in collaborating, discussing possible consultancy opportunities or hearing more about what I do, reach out using this form. On average, I try to reply to emails in about five business days. Thanks for your patience!
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: aemasri@utexas.edu
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
-title: Contact
+title: Email me!
 type: form
 url: contact
 ---
