@@ -1,33 +1,28 @@
 ---
-author: Eric Anderson
+author: Azza El-Masri
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-02"
+- open-source methodologies
+- fact-checking
+- curriculum building
+date: "2022-01-22"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: In my last six months helming Check Global's NAWA Media program, I worked with students from Yemen, Lebanon and Syria to develop an open-source methodology for media monitoring and fact-checking COVID-19 misinformation. This project culminated in the publication of the Media Credibility Index. 
 featured: true
 layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
-- icon: newspaper
+  name: report
+  url: https://ar.nawamedia.org/wp-content/uploads/sites/2/2022/01/Disinformation_Covid-19_04.pdf
+- icon: map
   icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
-subtitle: ""
+  name: Media Credibility Index Map
+  url: https://ar.nawamedia.org/media-credibility-index-map/
+subtitle: "A participatory open-source methodology and curriculum that enables Arab students how to monitor and fact-check health misinformation in their native language"
 tags:
-- hugo-site
-title: Palmer Penguins
+- meedan
+- teaching
+title: Media Credibility Index
 ---
 
 ### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
