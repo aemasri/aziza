@@ -4,7 +4,7 @@ categories:
 - student journalism
 - mobile newsroom
 - trainings
-date: "2022-07-28"
+date: "2021-06-28"
 draft: false
 excerpt: The NAWA Media Newsroom, first launched in 2017 in Lebanon, has since grown to be a multi-national group of student journalists from Syria, Yemen, Egypt, Lebanon and Palestine that work virtually together on investigations and participate in trainings on open source investigation techniques, satire writing, fact-checking, and media monitoring. 
 layout: single
