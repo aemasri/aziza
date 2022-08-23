@@ -5,7 +5,7 @@ categories:
 - fact-checking
 - curriculum building
 date: "2022-01-22"
-draft: false
+draft: true
 excerpt: In my last six months helming Check Global's NAWA Media program, I worked with students from Yemen, Lebanon and Syria to develop an open-source methodology for media monitoring and fact-checking COVID-19 misinformation. This project culminated in the publication of the Media Credibility Index. 
 featured: true
 layout: single-sidebar
