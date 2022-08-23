@@ -2,7 +2,7 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: Hi, there! I'm Azza, welcome. 
+headline: Hi, I'm Azza! Welcome. 
 ---
 
 <!-- this is a subheadline -->
