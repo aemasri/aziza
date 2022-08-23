@@ -7,11 +7,11 @@ categories:
 date: "2020-09-14"
 draft: false
 excerpt: In the wake of the catastrophic August 4th 2020 Beirut port explosion, we launched a $26,000 fund to support independent media organizations and workers in Lebanon.  
-layout: single
+layout: single-sidebar
 links:
-- icon: bookmark
-  icon_pack: fas
-  name: blog post
+- icon: newspaper
+  icon_pack: far
+  name: Blog post
   url: https://meedan.com/post/beirut-response-fund-for-independent-media-in-lebanon
 subtitle: Helping Lebanese independent media pick up the pieces
 tags:
