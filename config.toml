@@ -95,6 +95,10 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/aemasri"
+  [[params.social]]
+      icon      = "file-pdf"
+      icon_pack = "fas"
+      url       = "/pdf/ElMasri,A_CV.pdf"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -132,7 +136,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Contact"
     title = "Email me"
-    url = "mailto:aemasri@utexas.edu"
+    url = "contact"
     weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
