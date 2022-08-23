@@ -10,9 +10,9 @@ cascade:
     text_link_url: /project/
 description: Here, you'll see a selection of projects I have previously worked on throughout my career.
 layout: list-grid
-show_author_byline: true
+show_author_byline: false
 show_button_links: false
-show_post_date: false
+show_post_date: true
 show_post_thumbnail: true
 title: Portfolio
 type: project
