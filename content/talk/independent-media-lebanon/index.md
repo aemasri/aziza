@@ -1,7 +1,7 @@
 ---
 author: Azza El-Masri
 categories:
-- meetup
+- invited talk
 date: "2020-11-20T10:00:59-06:00"
 date_end: "2020-11-20T11:00:59-06:00"
 draft: false
@@ -19,11 +19,11 @@ links:
 location: Online
 subtitle: A presentation on the struggling independent Lebanese mediascape for IFF's MENA's Community Knowledge Sharing session. 
 title: Independent Media in Lebanon After the Blast
-
 ---
 
 This MENA Community Knowledge session (MENA CKS) focused on:
-- The impact of the martial law on the security and freedom of independent journos after the blast
-- How the blast affected the business model of independent media outlets and the role of emergency funding for media
-- What kind of regional cooperation is needed in terms of archiving and journalistic collaboration and training
-- The impact of trauma on independent journalists
+
+-   The impact of the martial law on the security and freedom of independent journos after the blast
+-   How the blast affected the business model of independent media outlets and the role of emergency funding for media
+-   What kind of regional cooperation is needed in terms of archiving and journalistic collaboration and training
+-   The impact of trauma on independent journalists
