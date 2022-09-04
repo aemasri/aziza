@@ -2,7 +2,7 @@
 author: Azza El-Masri
 cascade:
   author: Azza El-Masri
-  show_author_byline: false
+  show_author_byline: true
   show_comments: false
   show_post_date: true
   show_post_time: true
@@ -19,7 +19,7 @@ show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
-sidebar:
+sidebar: 
   author: Azza El-Masri
   description: "This is a list for your talks, workshops, or \nother events with a
     time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
